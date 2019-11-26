@@ -4,7 +4,17 @@
             "outputFile": "C:\\Code\\tiket\\CameraTest\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\carli\\.gradle\\caches\\transforms-2\\files-2.1\\f6828f16f05f3b57d7d628c5c43f6bcb\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\carli\\.gradle\\caches\\transforms-2\\files-2.1\\1203ce41b12b78d2874f075ccd47b7b6\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\carli\\.gradle\\caches\\transforms-2\\files-2.1\\db58aa8c926daad5b80267a1a586e208\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\carli\\.gradle\\caches\\transforms-2\\files-2.1\\2e99d6f922baf1a5361aedb78b257789\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]
