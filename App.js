@@ -1,6 +1,6 @@
 import React from 'react';
 import 'react-native-gesture-handler';
-import {createAppContainer} from 'react-navigation';
+import {createAppContainer, withNavigationFocus} from 'react-navigation';
 import {createBottomTabNavigator} from 'react-navigation-tabs';
 
 // Screens Imports
@@ -13,7 +13,7 @@ const TabNavigator = createBottomTabNavigator({
     path: 'Home',
   },
   Camera: {
-    screen: CameraScreen,
+    screen: withNavigationFocus(CameraScreen),
     path: 'Camera',
   },
 });

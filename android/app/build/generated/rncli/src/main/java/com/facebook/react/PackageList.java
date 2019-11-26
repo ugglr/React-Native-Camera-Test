@@ -14,6 +14,8 @@ import java.util.ArrayList;
 import com.cameratest.BuildConfig;
 import com.cameratest.R;
 
+// react-native-camera
+import org.reactnative.camera.RNCameraPackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
 // react-native-reanimated
@@ -65,6 +67,7 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
+      new RNCameraPackage(),
       new RNGestureHandlerPackage(),
       new ReanimatedPackage(),
       new RNScreensPackage()

@@ -15,53 +15,53 @@ public final class R {
         public static final int actualImageResource = 0x7f030022;
         public static final int actualImageScaleType = 0x7f030023;
         public static final int actualImageUri = 0x7f030024;
-        public static final int backgroundImage = 0x7f030035;
-        public static final int fadeDuration = 0x7f0300d6;
-        public static final int failureImage = 0x7f0300d7;
-        public static final int failureImageScaleType = 0x7f0300d8;
-        public static final int overlayImage = 0x7f030147;
-        public static final int placeholderImage = 0x7f030154;
-        public static final int placeholderImageScaleType = 0x7f030155;
-        public static final int pressedStateOverlayImage = 0x7f03015a;
-        public static final int progressBarAutoRotateInterval = 0x7f03015c;
-        public static final int progressBarImage = 0x7f03015d;
-        public static final int progressBarImageScaleType = 0x7f03015e;
-        public static final int retryImage = 0x7f030167;
-        public static final int retryImageScaleType = 0x7f030168;
-        public static final int roundAsCircle = 0x7f03016b;
-        public static final int roundBottomEnd = 0x7f03016c;
-        public static final int roundBottomLeft = 0x7f03016d;
-        public static final int roundBottomRight = 0x7f03016e;
-        public static final int roundBottomStart = 0x7f03016f;
-        public static final int roundTopEnd = 0x7f030170;
-        public static final int roundTopLeft = 0x7f030171;
-        public static final int roundTopRight = 0x7f030172;
-        public static final int roundTopStart = 0x7f030173;
-        public static final int roundWithOverlayColor = 0x7f030174;
-        public static final int roundedCornerRadius = 0x7f030175;
-        public static final int roundingBorderColor = 0x7f030176;
-        public static final int roundingBorderPadding = 0x7f030177;
-        public static final int roundingBorderWidth = 0x7f030178;
-        public static final int viewAspectRatio = 0x7f0301fd;
+        public static final int backgroundImage = 0x7f030037;
+        public static final int fadeDuration = 0x7f0300dc;
+        public static final int failureImage = 0x7f0300dd;
+        public static final int failureImageScaleType = 0x7f0300de;
+        public static final int overlayImage = 0x7f030150;
+        public static final int placeholderImage = 0x7f03015d;
+        public static final int placeholderImageScaleType = 0x7f03015e;
+        public static final int pressedStateOverlayImage = 0x7f030163;
+        public static final int progressBarAutoRotateInterval = 0x7f030165;
+        public static final int progressBarImage = 0x7f030166;
+        public static final int progressBarImageScaleType = 0x7f030167;
+        public static final int retryImage = 0x7f030170;
+        public static final int retryImageScaleType = 0x7f030171;
+        public static final int roundAsCircle = 0x7f030174;
+        public static final int roundBottomEnd = 0x7f030175;
+        public static final int roundBottomLeft = 0x7f030176;
+        public static final int roundBottomRight = 0x7f030177;
+        public static final int roundBottomStart = 0x7f030178;
+        public static final int roundTopEnd = 0x7f030179;
+        public static final int roundTopLeft = 0x7f03017a;
+        public static final int roundTopRight = 0x7f03017b;
+        public static final int roundTopStart = 0x7f03017c;
+        public static final int roundWithOverlayColor = 0x7f03017d;
+        public static final int roundedCornerRadius = 0x7f03017e;
+        public static final int roundingBorderColor = 0x7f03017f;
+        public static final int roundingBorderPadding = 0x7f030180;
+        public static final int roundingBorderWidth = 0x7f030181;
+        public static final int viewAspectRatio = 0x7f030207;
     }
     public static final class id {
         private id() {}
 
-        public static final int center = 0x7f08004b;
-        public static final int centerCrop = 0x7f08004c;
-        public static final int centerInside = 0x7f08004d;
-        public static final int fitBottomStart = 0x7f080070;
-        public static final int fitCenter = 0x7f080071;
-        public static final int fitEnd = 0x7f080072;
-        public static final int fitStart = 0x7f080073;
-        public static final int fitXY = 0x7f080074;
-        public static final int focusCrop = 0x7f080076;
-        public static final int none = 0x7f080095;
+        public static final int center = 0x7f080050;
+        public static final int centerCrop = 0x7f080051;
+        public static final int centerInside = 0x7f080052;
+        public static final int fitBottomStart = 0x7f080077;
+        public static final int fitCenter = 0x7f080078;
+        public static final int fitEnd = 0x7f080079;
+        public static final int fitStart = 0x7f08007a;
+        public static final int fitXY = 0x7f08007b;
+        public static final int focusCrop = 0x7f08007d;
+        public static final int none = 0x7f0800a0;
     }
     public static final class styleable {
         private styleable() {}
 
-        public static final int[] GenericDraweeHierarchy = { 0x7f030023, 0x7f030035, 0x7f0300d6, 0x7f0300d7, 0x7f0300d8, 0x7f030147, 0x7f030154, 0x7f030155, 0x7f03015a, 0x7f03015c, 0x7f03015d, 0x7f03015e, 0x7f030167, 0x7f030168, 0x7f03016b, 0x7f03016c, 0x7f03016d, 0x7f03016e, 0x7f03016f, 0x7f030170, 0x7f030171, 0x7f030172, 0x7f030173, 0x7f030174, 0x7f030175, 0x7f030176, 0x7f030177, 0x7f030178, 0x7f0301fd };
+        public static final int[] GenericDraweeHierarchy = { 0x7f030023, 0x7f030037, 0x7f0300dc, 0x7f0300dd, 0x7f0300de, 0x7f030150, 0x7f03015d, 0x7f03015e, 0x7f030163, 0x7f030165, 0x7f030166, 0x7f030167, 0x7f030170, 0x7f030171, 0x7f030174, 0x7f030175, 0x7f030176, 0x7f030177, 0x7f030178, 0x7f030179, 0x7f03017a, 0x7f03017b, 0x7f03017c, 0x7f03017d, 0x7f03017e, 0x7f03017f, 0x7f030180, 0x7f030181, 0x7f030207 };
         public static final int GenericDraweeHierarchy_actualImageScaleType = 0;
         public static final int GenericDraweeHierarchy_backgroundImage = 1;
         public static final int GenericDraweeHierarchy_fadeDuration = 2;
@@ -91,7 +91,7 @@ public final class R {
         public static final int GenericDraweeHierarchy_roundingBorderPadding = 26;
         public static final int GenericDraweeHierarchy_roundingBorderWidth = 27;
         public static final int GenericDraweeHierarchy_viewAspectRatio = 28;
-        public static final int[] SimpleDraweeView = { 0x7f030022, 0x7f030023, 0x7f030024, 0x7f030035, 0x7f0300d6, 0x7f0300d7, 0x7f0300d8, 0x7f030147, 0x7f030154, 0x7f030155, 0x7f03015a, 0x7f03015c, 0x7f03015d, 0x7f03015e, 0x7f030167, 0x7f030168, 0x7f03016b, 0x7f03016c, 0x7f03016d, 0x7f03016e, 0x7f03016f, 0x7f030170, 0x7f030171, 0x7f030172, 0x7f030173, 0x7f030174, 0x7f030175, 0x7f030176, 0x7f030177, 0x7f030178, 0x7f0301fd };
+        public static final int[] SimpleDraweeView = { 0x7f030022, 0x7f030023, 0x7f030024, 0x7f030037, 0x7f0300dc, 0x7f0300dd, 0x7f0300de, 0x7f030150, 0x7f03015d, 0x7f03015e, 0x7f030163, 0x7f030165, 0x7f030166, 0x7f030167, 0x7f030170, 0x7f030171, 0x7f030174, 0x7f030175, 0x7f030176, 0x7f030177, 0x7f030178, 0x7f030179, 0x7f03017a, 0x7f03017b, 0x7f03017c, 0x7f03017d, 0x7f03017e, 0x7f03017f, 0x7f030180, 0x7f030181, 0x7f030207 };
         public static final int SimpleDraweeView_actualImageResource = 0;
         public static final int SimpleDraweeView_actualImageScaleType = 1;
         public static final int SimpleDraweeView_actualImageUri = 2;
