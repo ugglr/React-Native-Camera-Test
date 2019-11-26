@@ -5326,6 +5326,13 @@ react-lifecycles-compat@^3.0.4:
   resolved "https://npm.tiketlabs.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
 
+react-native-camera@^3.11.1:
+  version "3.11.1"
+  resolved "https://npm.tiketlabs.com/react-native-camera/-/react-native-camera-3.11.1.tgz#5c2851d8208f2aa47007bd123f6056aaf9c58e18"
+  integrity sha512-uzsGgXVKEh9PrOOOfYuFj9X/jnSv8i0b6upcsCkFVBtF7iIs/nED23ZSf2UTWsRH5LR07/yqA9PDebjh76hKVQ==
+  dependencies:
+    prop-types "^15.6.2"
+
 react-native-gesture-handler@^1.5.1:
   version "1.5.1"
   resolved "https://npm.tiketlabs.com/react-native-gesture-handler/-/react-native-gesture-handler-1.5.1.tgz#681cef98954d48cd82f99f75de3ab203c8754354"
